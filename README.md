@@ -244,10 +244,6 @@ git push origin feature/nova-feature
 
 <div align="center">
 
-<img src="https://i.imgur.com/PATROCINADOR1.png" width="120">
-<img src="https://i.imgur.com/PATROCINADOR2.png" width="120">
-<img src="https://i.imgur.com/PATROCINADOR3.png" width="120">
-
 </div>
 
 ---
