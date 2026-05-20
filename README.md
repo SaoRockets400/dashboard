@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.imgur.com/SEU_LOGO.png" width="180">
-
 # ⚙️ SESI Robotics Team
 
 ### *Engineering the Future Through Robotics, Innovation & Impact.*
